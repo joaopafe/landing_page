@@ -14,8 +14,18 @@ body {
 .logo {
   display: flex;
   justify-content: center;
+  align-items: center;
+  background-color: #315d90;
   border: solid 1px blue;
   height: 20%;
+  font-family: sans-serif;
+  color: #db152d;
+  font-size: 3.5vh;
+  height: 15vh;
+}
+
+#span-logo {
+  color: white;
 }
 
 .dev-courses-section {
