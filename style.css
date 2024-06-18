@@ -16,7 +16,6 @@ body {
   justify-content: center;
   align-items: center;
   background-color: #315d90;
-  border: solid 1px blue;
   height: 20%;
   font-family: sans-serif;
   color: #db152d;
@@ -31,7 +30,6 @@ body {
 .dev-courses-section {
   display: flex;
   flex-direction: column;
-  border: solid 1px red;
   margin: 25px 25px;
   background-color: #37659b;
   padding-top: 10px;
@@ -50,7 +48,6 @@ body {
 #dev-courses {
   display: flex;
   flex-direction: row;
-  border: solid 1px blue;
   justify-content: space-around;
 }
 
@@ -219,7 +216,6 @@ body {
 .qa-courses-section {
   display: flex;
   flex-direction: column;
-  border: solid 1px red;
   margin: 25px 25px;
   background-color: #37659b;
   padding-top: 10px;
@@ -238,7 +234,6 @@ body {
 #qa-courses {
   display: flex;
   flex-direction: row;
-  border: solid 1px blue;
   justify-content: space-around;
 }
 
@@ -409,14 +404,12 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  border: 1px solid red;
   margin: 25px 25px;
 }
 
 #purchase-button-section {
   display: flex;
   justify-content: center;
-  border: 1px solid blue;
   width: 100%;
 }
 
@@ -435,7 +428,6 @@ body {
 #product-offert {
   display: flex;
   justify-content: center;
-  border: 1px solid yellow;
   width: 100%;
   margin-top: 10px;
   height: 5vh;
@@ -451,13 +443,11 @@ body {
 
 #feedback-section {
   margin: 25px 25px;
-  border: 1px solid yellow;
   display: flex;
   flex-direction: column;
 }
 
 #feedback-title {
-  border: 1px solid blue;
   font-family: sans-serif;
   color: white;
   font-size: 50px;
@@ -471,7 +461,6 @@ body {
 }
 
 #feedback-boxes {
-  border: 1px solid red;
   height: 50vh;
   display: flex;
   justify-content: space-around;
@@ -479,11 +468,9 @@ body {
 
 #feedback-image {
   height: 40%;
-  border: 1px solid green;
 }
 
 #feedback-text {
-  border: 1px solid green;
   display: flex;
   color: white;
   font-family: sans-serif;
@@ -493,7 +480,6 @@ body {
 }
 
 #feedback-1 {
-  border: 1px solid black;
   height: 100%;
   width: 25%;
   background-color: #96e0ff;
@@ -504,13 +490,11 @@ body {
 }
 
 #feedback-image-1 {
-  border: 1px solid maroon;
   max-height: 100%;
   max-width: 100%;
 }
 
 #feedback-2 {
-  border: 1px solid black;
   height: 100%;
   width: 25%;
   background-color: #96e0ff;
@@ -521,13 +505,11 @@ body {
 }
 
 #feedback-image-2 {
-  border: 1px solid maroon;
   max-height: 100%;
   max-width: 100%;
 }
 
 #feedback-3 {
-  border: 1px solid black;
   height: 100%;
   width: 25%;
   background-color: #96e0ff;
@@ -538,7 +520,6 @@ body {
 }
 
 #feedback-image-3 {
-  border: 1px solid maroon;
   max-height: 100%;
   max-width: 100%;
 }
@@ -550,7 +531,6 @@ footer {
 }
 
 #footer-links {
-  border: 1px solid black;
   display: flex;
   justify-content: space-around;
   margin-top: 10px;
